@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.bblz.chaseEnabler.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "EnableCommandMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
