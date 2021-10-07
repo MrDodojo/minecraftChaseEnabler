@@ -1,8 +1,7 @@
 package com.bblz.chaseEnabler.mixin;
 
 import com.mojang.brigadier.CommandDispatcher;
-import com.bblz.chaseEnabler.ChaseCommand;
-// import net.minecraft.server.command.ChaseCommand;
+import net.minecraft.server.command.ChaseCommand;
 import net.minecraft.server.command.CommandManager;
 import net.minecraft.server.command.ServerCommandSource;
 import org.spongepowered.asm.mixin.Final;

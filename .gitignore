@@ -4,6 +4,7 @@
 build/
 out/
 classes/
+remappedSrc/
 
 # eclipse
 
@@ -33,3 +34,4 @@ bin/
 .github
 
 run/
+run2/
